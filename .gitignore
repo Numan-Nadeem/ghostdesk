@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# build / demo working files
+.v2work/
+.gen/
+
+# videos (demo video lives on YouTube, not in the repo)
+*.mp4
+*.webm
+
+# misc
+*.err
+.DS_Store
+.env*
